@@ -4,7 +4,7 @@ vagrant-ubuntu-setup
 Ubuntu 12.04 LTS 64bit
 
 ```js
-
+//pradzia Dariaus, aciu jam :)
 //terminnale:
 cd ~/Desktop
 
